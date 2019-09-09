@@ -5,6 +5,7 @@ import java.security.SecureRandom;
 
 import static java.lang.Math.PI;
 
+//denna klassen heter Main
 class Main {
     static Scanner scan = new Scanner(System.in);   //skapar ett objekt av klassen Scanner, som läser från tangentbordet
 
